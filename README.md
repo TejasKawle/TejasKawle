@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate learner and developer, currently 
 ## 🌱 How to Reach Me
 
 - LinkedIn: [Tejas Kawle](https://www.linkedin.com/in/tejas-kawle)
-- Email: [tejas.kawle@example.com](mailto:tejas.kawle@example.com)
+- Email: [tejaskawle@example.com](mailto:tejas.kawle@example.com)
 
 Thanks for stopping by! Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or learn more. Let's build something amazing together! 🚀
 
