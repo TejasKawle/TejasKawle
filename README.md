@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I'm a passionate learner and developer, currently 
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: Java, Python
-- **Libraries/Frameworks**: TensorFlow, Scikit-Learn, NumPy, Pandas, OpenCV
+- **Languages**: Java, Python, javascript
+- **Libraries/Frameworks**: TensorFlow, Scikit-Learn, NumPy, Pandas, matplotlib, seaborn
 - **Tools**: VS Code, Jupyter, IntelliJ IDEA
 - **Version Control**: Git, GitHub
 
