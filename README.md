@@ -20,18 +20,11 @@ Welcome to my GitHub profile! I'm a passionate learner and developer, currently 
 
 ![Tejas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=TejasKawle&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
-## 🔥 GitHub Projects
-
-### 🚀 [Machine Learning Projects](https://github.com/TejasKawle?tab=repositories&q=&type=&language=python)
-- Explore the ML projects I’m working on, including classifiers, regressors, and deep learning models.
-
-### 🧠 [Data Structures & Algorithms](https://github.com/TejasKawle?tab=repositories&q=&type=&language=java)
-- Check out my journey in solving various problems using DSA concepts in Java.
 
 ## 🌱 How to Reach Me
 
 - LinkedIn: [Tejas Kawle](https://www.linkedin.com/in/tejas-kawle)
-- Email: [tejaskawle@example.com](mailto:tejas.kawle@example.com)
+- Email: [tejaskawle@example.com](mailto:tejaskawle21@gmail.com)
 
 Thanks for stopping by! Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or learn more. Let's build something amazing together! 🚀
 
