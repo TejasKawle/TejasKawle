@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm a passionate learner and developer, currently 
 
 ## 🚀 About Me
 
-- 👨‍💻 I'm currently working on improving my skills in **Machine Learning (ML)** and **Data Structures & Algorithms (DSA)**.
+- 👨‍💻 I'm currently working on improving my skills in **Full stack web development** and **Data Structures & Algorithms (DSA)**.
 - 🧠 I'm constantly learning new techniques and approaches to problem-solving.
-- 🌱 I’m currently exploring the use of **Java** for algorithmic challenges and ML projects.
+- 🌱 I’m currently exploring the use of **Java** for algorithmic challenges and Full stack projects.
 - 📚 Always improving and pushing myself to learn and grow in the tech field.
 
 ## 🛠️ Technologies & Tools
