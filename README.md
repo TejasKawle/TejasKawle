@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate learner and developer, currently 
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: Java, Python, javascript,c++
+- **Languages**: Java, Python, javascript, c++
 - **Tech Stack**: MERN stack (MongoDB, ExpressJs, ReactJs, NodeJs) 
 - **Tools**: VS Code, Jupyter, IntelliJ IDEA
 - **Database**: SQL,mongoDB
