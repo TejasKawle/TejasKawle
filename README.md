@@ -1,6 +1,6 @@
 # Hi, I'm Tejas Kawle 👋
 
-Welcome to my GitHub profile! I'm a passionate learner and developer, currently focusing on Machine Learning (ML) and Data Structures & Algorithms (DSA) in Java. I love solving problems, building projects, and exploring new technologies.
+Welcome to my GitHub profile! I'm a passionate learner and developer, currently focusing on MERN stack and Data Structures & Algorithms (DSA) in Java. I love solving problems, building projects, and exploring new technologies.
 
 ## 🚀 About Me
 
