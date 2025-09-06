@@ -1,19 +1,19 @@
 # Hi, I'm Tejas Kawle 👋
 
-Welcome to my GitHub profile! I'm a passionate learner and developer, currently focusing on MERN stack and Data Structures & Algorithms (DSA) in Java. I love solving problems, building projects, and exploring new technologies.
+Welcome to my GitHub profile! I'm a passionate learner and developer, currently focusing on MERN stack and Data Structures & Algorithms (DSA) in c++. I love solving problems, building projects, and exploring new technologies.
 
 ## 🚀 About Me
 
 - 👨‍💻 I'm currently working on improving my skills in **Full stack web development** and **Data Structures & Algorithms (DSA)**.
 - 🧠 I'm constantly learning new techniques and approaches to problem-solving.
-- 🌱 I’m currently exploring the use of **Java** for algorithmic challenges and Full stack projects.
+- 🌱 I’m currently exploring the use of **c++** for algorithmic challenges.
 - 📚 Always improving and pushing myself to learn and grow in the tech field.
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: Java, Python, javascript, c++
-- **Tech Stack**: MERN stack (MongoDB, ExpressJs, ReactJs, NodeJs) 
-- **Tools**: VS Code, Jupyter, IntelliJ IDEA
+- **Languages**: Java, Python, javascript, c++,typescript
+- **Web Technologies**: HTML, CSS, tailwind, ReactJS, ExpressJs, MongoDB, REST APIs
+- **Tools**: VS Code, Jupyter, IntelliJ IDEA,: Git, GitHub, postman, Chrome DevTools, chatGPT and other AI tools.
 - **Database**: SQL,mongoDB
 - **Version Control**: Git, GitHub
 
